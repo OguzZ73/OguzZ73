@@ -4,11 +4,6 @@
 
 <img src="assets/typing.svg" width="600" alt="" />
 
-<br/>
-
-![Takipçi](https://img.shields.io/github/followers/OguzZ73?style=for-the-badge&color=ec4899&logo=github)
-![Repo](https://img.shields.io/badge/Geliştirici-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
-
 </div>
 
 ---
@@ -70,7 +65,12 @@
 ## 🐍 Katkı Yılanı
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/OguzZ73/OguzZ73/output/github-snake-dark.svg" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OguzZ73/OguzZ73/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OguzZ73/OguzZ73/output/github-snake.svg" />
+  <img alt="Katkı yılanı" src="https://raw.githubusercontent.com/OguzZ73/OguzZ73/output/github-snake-dark.svg" width="100%" />
+</picture>
+<sub>Son 12 ayın katkı tablosu</sub>
 </div>
 
 <div align="center">
