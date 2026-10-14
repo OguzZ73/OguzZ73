@@ -2,7 +2,7 @@
 <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0a"/><stop offset="1" stop-color="#2a2110"/></linearGradient>
 <clipPath id="c"><rect width="480" height="200" rx="18"/></clipPath></defs>
 <g clip-path="url(#c)"><rect width="480" height="200" fill="url(#b)"/>
-<g transform="translate(388 110)">
+<g transform="translate(366 110)">
 <g><animateTransform attributeName="transform" type="rotate" values="-7 0 -62;7 0 -62;-7 0 -62" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" keyTimes="0;.5;1"/>
 <path d="M0 -40 L0 -50 C0 -62 14 -64 14 -74 C14 -84 -4 -86 -4 -74" fill="none" stroke="#d4af37" stroke-width="4" stroke-linecap="round"/>
 <path d="M0 -40 L-72 14 Q-80 22 -68 22 L68 22 Q80 22 72 14 Z" fill="#d4af37" fill-opacity=".12" stroke="#d4af37" stroke-width="3" stroke-linejoin="round"/>

@@ -8,16 +8,16 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## <img src="assets/icons/user.svg" height="26" width="26" align="absmiddle" alt="" /> Hakkımda
 
 **Oğuzhan Şamil Avan** · Next.js/React ile web, React Native/Expo ile mobil uygulamalar. Fikirden yayına uçtan uca ürün geliştirme. İstatistik eğitimi; veri, yazılım ve tasarımın kesişiminde işler.
 
-- 🌌 Sinematik, scroll tabanlı ve WebGL destekli arayüzler
-- 🧠 **Mosaica:** Türkçe yazım/gramer motorları ve rüya analitiği
-- 🎮 Tarayıcıda oynanan küçük oyunlar ve deneyler
-- 📫 İletişim: [79kio79@gmail.com](mailto:79kio79@gmail.com)
+- <img src="assets/icons/stars.svg" height="18" width="18" align="absmiddle" alt="" /> Sinematik, scroll tabanlı ve WebGL destekli arayüzler
+- <img src="assets/icons/brain.svg" height="18" width="18" align="absmiddle" alt="" /> **Mosaica:** Türkçe yazım/gramer motorları ve rüya analitiği
+- <img src="assets/icons/gamepad.svg" height="18" width="18" align="absmiddle" alt="" /> Tarayıcıda oynanan küçük oyunlar ve deneyler
+- <img src="assets/icons/mail.svg" height="18" width="18" align="absmiddle" alt="" /> İletişim: [79kio79@gmail.com](mailto:79kio79@gmail.com)
 
-## 🚀 Öne Çıkan Projeler
+## <img src="assets/icons/rocket.svg" height="26" width="26" align="absmiddle" alt="" /> Öne Çıkan Projeler
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 </div>
 
-## 🛠️ Teknolojiler
+## <img src="assets/icons/tools.svg" height="26" width="26" align="absmiddle" alt="" /> Teknolojiler
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 </div>
 
-## 📈 GitHub İstatistikleri
+## <img src="assets/icons/chart.svg" height="26" width="26" align="absmiddle" alt="" /> GitHub İstatistikleri
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 </div>
 
-## 🐍 Katkı Yılanı
+## <img src="assets/icons/snake.svg" height="26" width="26" align="absmiddle" alt="" /> Katkı Yılanı
 
 <div align="center">
 <picture>
