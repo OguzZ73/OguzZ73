@@ -7,6 +7,7 @@
 <br/>
 
 ![Takipçi](https://img.shields.io/github/followers/OguzZ73?style=for-the-badge&color=ec4899&logo=github)
+![Repo](https://img.shields.io/badge/Geliştirici-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -14,23 +15,43 @@
 
 ## 👨‍💻 Hakkımda
 
-- 🔭 Şu an web projeleri ve oyun geliştirme üzerinde çalışıyorum
-- 📊 İstatistik okuyorum, veri ve yazılımı birleştirmeyi seviyorum
-- 🎨 Premium ve sade arayüzler tasarlamaya odaklanıyorum
-- 📫 İletişim: [E-posta](mailto:79kio79@gmail.com)
+**Oğuzhan Şamil Avan** · Next.js/React ile web, React Native/Expo ile mobil uygulamalar. Fikirden yayına uçtan uca ürün geliştirme. İstatistik eğitimi; veri, yazılım ve tasarımın kesişiminde işler.
+
+- 🌌 Sinematik, scroll tabanlı ve WebGL destekli arayüzler
+- 🧠 **Mosaica:** Türkçe yazım/gramer motorları ve rüya analitiği
+- 🎮 Tarayıcıda oynanan küçük oyunlar ve deneyler
+- 📫 İletişim: [79kio79@gmail.com](mailto:79kio79@gmail.com)
+
+## 🚀 Öne Çıkan Projeler
+
+<div align="center">
+
+<a href="https://suzulus.vercel.app"><img src="assets/card-suzulus.svg" width="49%" alt="Süzülüş" /></a>
+<a href="https://nocte-xi.vercel.app"><img src="assets/card-nocte.svg" width="49%" alt="NOCTÉ Atelier" /></a>
+<a href="https://spaceweb-psi.vercel.app"><img src="assets/card-olay-ufku.svg" width="49%" alt="Olay Ufku" /></a>
+<a href="https://github.com/OguzZ73/mosaica-showcase"><img src="assets/card-mosaica.svg" width="49%" alt="Mosaica" /></a>
+<a href="https://github.com/OguzZ73/cv"><img src="assets/card-cv.svg" width="49%" alt="CV / Portfolyo" /></a>
+
+<sub>Kartlara tıklayarak canlı demolara ve repolara gidebilirsiniz.</sub>
+
+</div>
 
 ## 🛠️ Teknolojiler
 
 <div align="center">
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-0B1D2A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -56,7 +77,5 @@
 
 [![Mail](https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:79kio79@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OguzZ73)
-
-
 
 </div>

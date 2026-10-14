@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030014"/><stop offset="1" stop-color="#1a0b3a"/></linearGradient>
+<clipPath id="c"><rect width="480" height="200" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="480" height="200" fill="url(#b)"/>
+<g transform="translate(385 95)"><circle r="70" fill="#7c3aed" opacity=".18"><animate attributeName="r" values="64;78;64" dur="6s" repeatCount="indefinite"/></circle>
+<ellipse rx="78" ry="20" fill="none" stroke="#fb923c" stroke-width="5" opacity=".85" transform="rotate(-18)"><animate attributeName="stroke" values="#fb923c;#f472b6;#fb923c" dur="6s" repeatCount="indefinite"/></ellipse>
+<ellipse rx="95" ry="26" fill="none" stroke="#fbbf24" stroke-width="2" opacity=".5" transform="rotate(-18)"><animateTransform attributeName="transform" type="rotate" values="-18;-14;-18" dur="8s" repeatCount="indefinite"/></ellipse>
+<circle r="34" fill="#000" stroke="#fff" stroke-opacity=".5"/></g>
+<g fill="#fff"><circle cx="300" cy="30" r="1.5"><animate attributeName="opacity" values=".1;1;.1" dur="2s" repeatCount="indefinite"/></circle><circle cx="450" cy="170" r="1.5"><animate attributeName="opacity" values=".1;1;.1" dur="3s" repeatCount="indefinite"/></circle><circle cx="270" cy="150" r="1.2"><animate attributeName="opacity" values=".1;1;.1" dur="2.5s" repeatCount="indefinite"/></circle></g>
+<rect width="480" height="200" fill="none" stroke="#c084fc" stroke-opacity=".35" stroke-width="2" rx="18"/>
+<text x="28" y="76" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#fff" letter-spacing="1">OLAY UFKU</text>
+<text x="28" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#fff" fill-opacity=".78"></text>
+<text x="28" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#fff" fill-opacity=".78">sinematik uzay deneyimi.</text>
+<rect x="28" y="156" width="49" height="24" rx="12" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-opacity=".5"/><text x="52" y="172" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#c084fc">Uzay</text><rect x="84.8" y="156" width="85" height="24" rx="12" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-opacity=".5"/><text x="127" y="172" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#c084fc">Sinematik</text><rect x="177.6" y="156" width="63" height="24" rx="12" fill="#c084fc" fill-opacity=".16" stroke="#c084fc" stroke-opacity=".5"/><text x="209" y="172" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#c084fc">Scroll</text></g></svg>

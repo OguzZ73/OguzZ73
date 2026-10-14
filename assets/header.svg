@@ -35,6 +35,6 @@
     <rect x="380" y="190" width="240" height="3" rx="1.5" fill="url(#txt)">
       <animate attributeName="width" values="0;240" dur="1.4s" begin=".4s" fill="freeze"/>
       <animate attributeName="x" values="500;380" dur="1.4s" begin=".4s" fill="freeze"/></rect>
-    <text x="500" y="240" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" letter-spacing="8" fill="#cbd5e1">YAZILIM  ·  TASARIM  ·  İSTATİSTİK</text>
+    <text x="500" y="240" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" letter-spacing="7" fill="#cbd5e1">WEB  ·  MOBİL  ·  FİKİRDEN YAYINA</text>
   </g>
 </svg>

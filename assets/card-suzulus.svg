@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#475569"/></linearGradient>
+<clipPath id="c"><rect width="480" height="200" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="480" height="200" fill="url(#b)"/>
+<circle cx="380" cy="60" r="34" fill="#fde68a" opacity=".85"><animate attributeName="opacity" values=".6;.95;.6" dur="5s" repeatCount="indefinite"/></circle>
+<path d="M200 200 L290 110 L340 160 L400 90 L480 170 L480 200Z" fill="#334155" opacity=".7"/>
+<path d="M260 200 L350 130 L420 180 L480 140 L480 200Z" fill="#1e293b" opacity=".9"/>
+<g><path d="M0 0 L36 8 L0 14 L8 7Z" fill="#fff"/><animateMotion dur="9s" repeatCount="indefinite" path="M-40,120 C120,60 300,150 520,70"/></g>
+<rect x="-200" y="130" width="400" height="40" fill="#fff" opacity=".12" rx="20"><animate attributeName="x" values="-200;300;-200" dur="16s" repeatCount="indefinite"/></rect>
+<rect x="100" y="150" width="400" height="30" fill="#fff" opacity=".10" rx="15"><animate attributeName="x" values="300;-250;300" dur="20s" repeatCount="indefinite"/></rect>
+<rect width="480" height="200" fill="none" stroke="#7dd3fc" stroke-opacity=".35" stroke-width="2" rx="18"/>
+<text x="28" y="76" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#fff" letter-spacing="1">SÜZÜLÜŞ</text>
+<text x="28" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#fff" fill-opacity=".78"></text>
+<text x="28" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#fff" fill-opacity=".78">süzüldüğün tarayıcı oyunu.</text>
+<rect x="28" y="156" width="121" height="24" rx="12" fill="#7dd3fc" fill-opacity=".16" stroke="#7dd3fc" stroke-opacity=".5"/><text x="88" y="172" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7dd3fc">Tarayıcı oyunu</text><rect x="156.8" y="156" width="63" height="24" rx="12" fill="#7dd3fc" fill-opacity=".16" stroke="#7dd3fc" stroke-opacity=".5"/><text x="188" y="172" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7dd3fc">Canvas</text><rect x="228.0" y="156" width="63" height="24" rx="12" fill="#7dd3fc" fill-opacity=".16" stroke="#7dd3fc" stroke-opacity=".5"/><text x="260" y="172" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7dd3fc">Vercel</text></g></svg>
