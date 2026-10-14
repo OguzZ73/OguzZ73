@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="OğuzZ" />
+<img src="assets/banner.svg" width="100%" alt="OğuzZ" />
 
 <img src="assets/typing.svg" width="600" alt="" />
 
