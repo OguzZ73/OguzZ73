@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Merhaba,%20ben%20Oğuz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Yazılım%20•%20Tasarım%20•%20İstatistik&descAlignY=58&descSize=18" width="100%" />
+<img src="assets/header.svg" width="100%" alt="OğuzZ" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+siteleri+tasarlıyorum;Temiz+ve+modern+arayüzler+kuruyorum;Veriden+anlam+çıkarıyorum;Sürekli+öğreniyor,+sürekli+üretiyorum" alt="Typing SVG" />
-</a>
+<img src="assets/typing.svg" width="600" alt="" />
 
 <br/>
 
-![Profil Görüntülenme](https://komarev.com/ghpvc/?username=OguzZ73&style=for-the-badge&color=8b5cf6&label=PROFİL)
 ![Takipçi](https://img.shields.io/github/followers/OguzZ73?style=for-the-badge&color=ec4899&logo=github)
 
 </div>
@@ -49,12 +46,6 @@
 
 </div>
 
-## 🏆 Başarımlar
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=OguzZ73&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
 ## 🐍 Katkı Yılanı
 
 <div align="center">
@@ -66,6 +57,6 @@
 [![Mail](https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:79kio79@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OguzZ73)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=100&section=footer" width="100%" />
+
 
 </div>
