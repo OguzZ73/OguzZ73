@@ -14,6 +14,7 @@
 
 - <img src="assets/icons/stars.svg" height="18" width="18" align="absmiddle" alt="" /> Sinematik, scroll tabanlı ve WebGL destekli arayüzler
 - <img src="assets/icons/brain.svg" height="18" width="18" align="absmiddle" alt="" /> **Mosaica:** Türkçe yazım/gramer motorları ve rüya analitiği
+- <img src="assets/icons/chart.svg" height="18" width="18" align="absmiddle" alt="" /> **football-predictor:** Dixon-Coles tabanlı futbol skor modeli; 31 lig + UEFA kupaları, zaman sıralı dürüst test ve bahis piyasasıyla karşılaştırma
 - <img src="assets/icons/gamepad.svg" height="18" width="18" align="absmiddle" alt="" /> Tarayıcıda oynanan küçük oyunlar ve deneyler
 - <img src="assets/icons/mail.svg" height="18" width="18" align="absmiddle" alt="" /> İletişim: [79kio79@gmail.com](mailto:79kio79@gmail.com)
 
@@ -26,6 +27,7 @@
 <a href="https://spaceweb-psi.vercel.app"><img src="assets/card-olay-ufku.svg" width="49%" alt="Olay Ufku" /></a>
 <a href="https://github.com/OguzZ73/mosaica-showcase"><img src="assets/card-mosaica.svg" width="49%" alt="Mosaica" /></a>
 <a href="https://github.com/OguzZ73/cv"><img src="assets/card-cv.svg" width="49%" alt="CV / Portfolyo" /></a>
+<a href="https://github.com/OguzZ73/football-predictor"><img src="assets/card-football.svg" width="49%" alt="Football Predictor" /></a>
 
 <sub>Kartlara tıklayarak canlı demolara ve repolara gidebilirsiniz.</sub>
 
@@ -44,6 +46,10 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
